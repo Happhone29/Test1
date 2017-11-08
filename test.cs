@@ -7,4 +7,4 @@
 		private int aiueo;
 		private kakikukeko;
 		//
-	}
+	}  
