@@ -5,4 +5,5 @@
 	//------------------------------------------------------------
 	class hoge {
 		private int aiueo;
+		private kakikukeko;
 	}
